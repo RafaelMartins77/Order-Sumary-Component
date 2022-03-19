@@ -4,7 +4,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ## Screenshot
 
-![screenshot]("desing/screenshot.png")
+![screenshot](desing/screenshot.png)
 
 ### The challenge
 
@@ -14,7 +14,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [URL Solution](https://rafaelmartins77.github.io/Order-Sumary-Component/)
+- Solution URL: [Order-sumary-component page](https://rafaelmartins77.github.io/Order-Sumary-Component/)
 
 ### Built with
 
